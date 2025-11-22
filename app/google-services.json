@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101418201938",
+    "project_id": "vamosapp-5cf3c",
+    "storage_bucket": "vamosapp-5cf3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101418201938:android:656d17add4024d9f39808b",
+        "android_client_info": {
+          "package_name": "edu.udb.sv.vamosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaqZ_U6rNOYsEK7g1ziquW7ZSnPMkZYwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

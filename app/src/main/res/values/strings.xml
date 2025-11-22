@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VamosApp</string>
+
+    <string name="default_web_client_id">
+        101418201938-6oteu0b4fjmu9s6o1d3gk0d1p1ekljdm.apps.googleusercontent.com
+    </string>
+
+    <string name="facebook_app_id">24390238620651022</string>
+    <string name="facebook_client_token">2c2044508b0231b389d7e136ba1d03fb</string>
+    <string name="fb_login_protocol_scheme">fb24390238620651022</string>
+
+</resources>
